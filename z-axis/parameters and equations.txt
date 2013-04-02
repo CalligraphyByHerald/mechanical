@@ -1,0 +1,36 @@
+"base length" = 21
+"base width" = 16.5
+
+"glass pane length" = 14.125
+"glass pane width" = 10.1875
+
+"glass pane wall width" = 3/4
+"glass lip" = 1/4
+
+"bolt diameter" = 0.2
+
+"stepper body width" = 2.22
+"stepper mount offset" = 0.19
+"stepper mount diameter" = 0.19
+"stepper shaft offset from body" = 0.79
+"stepper spacer thickness" = 0.2
+
+"y axis stepper wall height off base" = 8
+"y axis stepper wall bracket thickness" = 1
+
+"y axis stepper wall mount side offset" = 1/2
+"y axis stepper wall mount top offset" = 1/2
+"y axis stepper wall width" = "stepper body width" + 1                  
+
+"thin metal" = 0.12
+"thick metal" = 0.25
+
+"recognizer width" = 2.5
+
+"recognizer nut plate height" = 1.25
+"recognizer nut plate offset" = 1.5
+
+"recognizer arm height to hole"= 4.255
+"recognizer bracket length" = 4
+
+"x axis threaded rod length" = 3

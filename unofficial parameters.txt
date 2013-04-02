@@ -1,0 +1,15 @@
+SolidWorks gets really slow when you have lots of equations. Hence this document. It's not linked to SolidWorks, but you can copy/paste hard parameters here.
+
+y axis bracket height = 4.4565
+y axis bracket width = 1.5135
+y axis bracket diameter = 0.151
+y axis bracket thickness = 0.101
+y axis bracket height 1 = 1.8275
+y axis bracket height 2 = 2.148
+y axis bracket height 3 = 3.823
+y axis bracket height 4 = 4.079
+y axis bracket offset = 0.1955
+y axis bracket side offset =  0.308
+
+foot diameter = 0.2
+foot inset from corner = 1
