@@ -9,3 +9,4 @@ All CAD and drawings in this repo were created by Kate Maschan and Daniel Dichte
 
 
 License: MIT
+If you find this material useful, or would otherwise like to, feel free to donate via venmo at https://venmo.com/Diana-Vermilya with the comment "Herald."
